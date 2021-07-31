@@ -13,8 +13,8 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 ◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
 
 <br>
-<a href="https://github.com/soilshubham">
-   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
+<a href="https://github.com/uzumal">
+   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Uzumal's github stats" width=450px/>
 </a><br><br>
 
 <div id="tech"></div>
@@ -24,7 +24,6 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -41,25 +40,17 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 **🌱 I'm currently learning:**
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=Nuxt.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flate&logo=Nuxt.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white")
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
-
-**📫 How to reach me:**
-
-&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:regx1385@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://nextjs-blog.regchiu.vercel.app/)
-
-
 
 ##
 <br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
-  <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="./icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soilshubham/"><img alt="Instagram" title="Instagram" src="./icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:soilshubham@gmail.com"><img alt="mail" title="mail" src="./icons/gmail.svg" width=20px/></a>
+  <a href="https://twitter.com/Uzumalz"><img alt="Twitter" title="Twitter" src="./icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
+   <a href="mailto:kazuma.takeuchi.1027@gmail.com"><img alt="mail" title="mail" src="./icons/gmail.svg" width=20px/></a>
 </p>
 <br>
 
