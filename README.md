@@ -1,23 +1,20 @@
-
 <img src="./github banner.jpg" alt="sahil's banner" width=100%>
+
+<h3 align="center"> 
+  Hey 👋, I'm Uzumal
+</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=uzumal&label=Profile%20views&color=0e75b6&style=flat" alt="viewcounter" />
   <img src="https://img.shields.io/github/followers/uzumal.svg?style=social&label=Follow&maxAge=2592000" alt="follwers" />
 </p>
 
-## :raising_hand: About me:
-I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
-◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
-◽ I like minimal art style.<br>
-◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
+## 📖 About me:
+- 🎓 I'm an master student at Doshisha University.
+- 💻 Intrested in Full-Stack Developement.
+- 🎨 I’m currently learning everything about Frontend and Backend technologies.
 
-<br>
-<a href="https://github.com/uzumal">
-   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Uzumal's github stats" width=450px/>
-</a><br><br>
-
-<div id="tech"></div>
+## 🌱 My Skills:
 
 **Languages I have used**
 
@@ -37,13 +34,19 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=Nuxt.js)
 
-**🌱 I'm currently learning:**
+**I'm currently learning:**
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flate&logo=Nuxt.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white")
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
+
+## GitHub Analytics
+
+<a href="https://github.com/uzumal">
+   <img src="https://github-readme-stats.vercel.app/api?username=uzumal&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=en&layout=compact" alt="Uzumal's github stats" width=350px/>
+</a>
 
 ##
 <br>
