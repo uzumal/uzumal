@@ -42,7 +42,7 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white")
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <a href="https://github.com/uzumal">
    <img src="https://github-readme-stats.vercel.app/api?username=uzumal&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=en&layout=compact" alt="Uzumal's github stats" width=350px/>
