@@ -29,6 +29,7 @@
 **Frameworks**
 
 ![BootStrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
