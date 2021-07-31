@@ -16,7 +16,7 @@
 
 ## 🌱 My Skills:
 
-**Languages I have used**
+**Languages**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
