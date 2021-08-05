@@ -50,7 +50,7 @@
      <img src="https://github-readme-stats.vercel.app/api?username=uzumal&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=en&layout=compact" alt="Uzumal's github stats" width=350px/>
   </a>
   <a href="https://github.com/uzumal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzumal&hide=html,css,sass,coffeescript&exclude_repo=ar-hololens2-drone-visualization,dmm-webcamp-caravan&theme=gotham&locale=en&langs_count=10&layout=compact" alt="Uzumal's github top languages" width=300px />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzumal&hide=html,css,scss,sass,coffeescript&exclude_repo=ar-hololens2-drone-visualization,dmm-webcamp-caravan＆count_private=true&theme=gotham&locale=en&langs_count=10&layout=compact" alt="Uzumal's github top languages" width=300px />
   </a>
 </p>
 
