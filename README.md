@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/github/followers/uzumal.svg?style=social&label=Follow&maxAge=2592000" alt="follwers" />
 </p>
 
-## 📖 About me:
-- 🎓 I'm an master student at Doshisha University.
-- 💻 Intrested in Full-Stack Developement.
-- 🎨 I’m currently learning everything about Frontend and Backend technologies.
+## About me:
+- I'm an master student at Doshisha University.
+- Intrested in Full-Stack Developement.
+- I’m currently learning everything about Frontend and Backend technologies.
 
-## 🌱 My Skills:
+## My Skills:
 
 **Languages**
 
@@ -43,7 +43,7 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white")
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center"> 
   <a href="https://github.com/uzumal">
