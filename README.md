@@ -1,18 +1,8 @@
-<h3 align="center"> 
-  Hey 👋, I'm Uzumal
-</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=uzumal&label=Profile%20views&color=0e75b6&style=flat" alt="viewcounter" />
   <img src="https://img.shields.io/github/followers/uzumal.svg?style=social&label=Follow&maxAge=2592000" alt="follwers" />
 </p>
-
-## About me:
-- I'm an master student at Doshisha University.
-- Intrested in Full-Stack Developement.
-- I’m currently learning everything about Frontend and Backend technologies.
-
-## GitHub Analytics
 
 <p align="center"> 
   <a href="https://github.com/uzumal">
