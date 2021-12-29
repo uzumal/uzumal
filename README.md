@@ -1,5 +1,3 @@
-<img src="./github banner.jpg" alt="sahil's banner" width=100%>
-
 <h3 align="center"> 
   Hey 👋, I'm Uzumal
 </h3>
@@ -13,35 +11,6 @@
 - I'm an master student at Doshisha University.
 - Intrested in Full-Stack Developement.
 - I’m currently learning everything about Frontend and Backend technologies.
-
-## My Skills:
-
-**Languages**
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white)
-
-**Frameworks**
-
-![BootStrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=Nuxt.js)
-
-**I'm currently learning:**
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flate&logo=Nuxt.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white")
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
 
 ## GitHub Analytics
 
