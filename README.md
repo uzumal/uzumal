@@ -1,8 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5aaf8b&height=120&section=header"/>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=uzumal&label=Profile%20views&color=0e75b6&style=flat" alt="viewcounter" />
-  <img src="https://img.shields.io/github/followers/uzumal.svg?style=social&label=Follow&maxAge=2592000" alt="follwers" />
-</p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{uzumal}/count.svg" /></p> 
+<br>
+</div>
 
 <p align="center"> 
   <a href="https://github.com/uzumal">
@@ -18,7 +20,7 @@
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
   <a href="https://twitter.com/Uzumalz"><img alt="Twitter" title="Twitter" src="./icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:kazuma.takeuchi.1027@gmail.com"><img alt="mail" title="mail" src="./icons/gmail.svg" width=20px/></a>
+   <a href="mailto:kazuma.takeuchi.job@gmail.com"><img alt="mail" title="mail" src="./icons/gmail.svg" width=20px/></a>
 </p>
-<br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5aaf8b&height=120&section=footer"/>
